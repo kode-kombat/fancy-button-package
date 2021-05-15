@@ -1,0 +1,21 @@
+{
+  "name": "@kode-kombat/fancy-button",
+  "version": "1.0.0",
+  "description": "This is my first custom button package",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "react": "^17.0.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "styled-components": "^5.3.0"
+  }
+}
