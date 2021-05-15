@@ -21,4 +21,3 @@ debug.log
 .env.production.local
 npm-debug.log*
 package-lock.json
-*npmrc
