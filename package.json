@@ -1,5 +1,5 @@
 {
-  "name": "@kode-kombat/fancy-button",
+  "name": "@kode-kombat/fancy-button-package",
   "version": "1.0.0",
   "description": "This is my first custom button package",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kode-kombat/fancy-button.git"
+    "url": "git+https://github.com/kode-kombat/fancy-button-package.git"
   },
   "author": "Kode Kombat",
   "license": "ISC",
