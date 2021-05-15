@@ -2,11 +2,17 @@
   "name": "@kode-kombat/fancy-button",
   "version": "1.0.0",
   "description": "This is my first custom button package",
-  "main": "src/index.jsx",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "source": "src/index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/kode-kombat/fancy-button.git"
+  },
+  "author": "Kode Kombat",
   "license": "ISC",
   "peerDependencies": {
     "react": "^17.0.2"
